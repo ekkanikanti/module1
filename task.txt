@@ -1,0 +1,1 @@
+Task given: Create a task manager web app with the ability to add, delete, and mark tasks as completed.
